@@ -1,0 +1,9 @@
+Vamos dar uma revisada em tudo que aprendemos neste curso. Conseguimos montar um microsserviços de pagamentos do zero, construir a API, inserir um banco de dados isolado e separar os pacotes por camadas de responsabilidade.
+
+Usamos as migrations para fazer a criação do SQL e versionar o banco de dados, trabalhamos com o Service Discovery e com o Service Registry, registrando os microsserviços para eles poderem descobrir um ao outro através dos nomes.
+
+Fizemos a parte de balanceamento de cargas e a inclusão do Gateway na aplicação, sendo um ponto chave quando estamos trabalhando com arquitetura de microsserviços. Elaboramos a comunicação síncrona entre os serviços de pedido e pagamentos.
+
+Tratamos as falhas quando o serviço de pedidos estava fora do ar, conseguimos programar como seria tratado essas falhas. Então, meus parabéns e muito obrigada novamente, foi muito legal acompanhar esse curso com você.
+
+Usamos o Eureka e fizemos todas as solicitações com o Postman para testarmos a nossa aplicação. Espero ver você em uma próxima para evoluirmos a arquitetura desse projeto.
