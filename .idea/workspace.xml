@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85ad3a0d-6340-4c50-a388-4f6ee6a4fe22" name="Changes" comment="+ EnableEurekaClient configurations" />
+    <list default="true" id="85ad3a0d-6340-4c50-a388-4f6ee6a4fe22" name="Changes" comment="+ EnableEurekaClient configurations">
+      <change afterPath="$PROJECT_DIR$/pedidos/.idea/pedidos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/java/br/com/alurafood/gateway/GatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/test/java/br/com/alurafood/gateway/GatewayApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagamentos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagamentos/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagamentos/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagamentos/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagamentos/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagamentos/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagamentos/src/main/java/br/com/alurafood/pagamentos/PagamentosApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagamentos/src/main/java/br/com/alurafood/pagamentos/config/Configuracao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagamentos/src/main/java/br/com/alurafood/pagamentos/controller/PagamentoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagamentos/src/main/java/br/com/alurafood/pagamentos/dto/PagamentoDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagamentos/src/main/java/br/com/alurafood/pagamentos/model/Pagamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagamentos/src/main/java/br/com/alurafood/pagamentos/model/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagamentos/src/main/java/br/com/alurafood/pagamentos/repository/PagamentoRepositoy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagamentos/src/main/java/br/com/alurafood/pagamentos/service/PagamentoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagamentos/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagamentos/src/main/resources/db/migration/V1__criar_tabela_pagamentos.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagamentos/src/test/java/br/com/alurafood/pagamentos/PagamentosApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +67,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Dell/Documents/projects/GIT/MS-ALURAFOOD/server",
